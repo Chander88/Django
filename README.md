@@ -5,7 +5,7 @@ This project implements **OAuth2 Authorization Code Flow** using **FastAPI** and
 - Google Cloud OAuth2 Credentials
 
 ### 🔧 Install dependencies
-
+This is the updated 
 ```bash
 pip install fastapi[all] authlib python-jose[cryptography]
 
